@@ -1,0 +1,314 @@
+@charset "UTF-8";
+
+
+/*submit*/
+#signup{
+    width: 510px;
+    margin: 180px auto 0px;
+    display: block;
+    text-align: center;
+}
+
+#signup .logo_image{
+    width: 39px;
+}
+
+#signup .logo{
+   margin-bottom: 20px;
+}
+#signup legend{
+    font-size:1.5em;
+    color: #424242;
+    padding: 0 25px;
+}
+
+#signup label p{
+    color: #757575 !important; 
+}
+
+#signup fieldset{
+    padding: 25px 30px 0px;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 206px;
+    
+}
+#signup input{
+    margin-top: 0px;
+    width: 300px;
+    height: 50px;
+    padding: 0px;
+    background: rgb(247, 248, 250);
+    color: rgb(194, 200, 204);
+    border: 1px solid #dbdbdb;
+}
+
+#signup li:nth-child(1) input{
+    border-radius: 4px 4px 0px 0px;
+}
+
+#signup li:nth-child(2) input{
+    margin-bottom: 20px;
+    border-radius: 0px 0px 4px 4px;
+}
+#signup button{
+    background-color: #35c5f0;
+    color: #fff;
+    border: 1px solid #35c5f0;;
+    padding: 15px 10px;
+    margin: 20px 0px;
+    line-height: 15px 10px;
+    width: 300px;
+    height: 52px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#signup .join_sns{
+    margin-left: 70px;
+}
+
+fieldset p{
+    display: inline;
+    padding-right: 10px;
+    width: 300px;
+    height: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+
+fieldset p a{
+    color: rgb(26, 26, 26) !important;
+    
+}
+
+#signup .join .login_check{
+    text-align: center;
+    margin-top: 24px;
+    color: #c2c8cc;
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-bottom: 1px solid #ededed; 
+}
+
+
+#signup .join p{
+    margin-top: 30px;
+    font-size: 15px;
+    color: #424242;
+    margin-bottom: 20px;
+}
+
+
+.join_sns{
+    width: 360px;
+    height: 108px;
+    margin: 30px;
+    padding-bottom: 30px;
+    height: 77px;
+    display: block;
+}
+
+.join_sns div{
+    margin: 15px 0px;
+    width: 360px;
+    text-align: center;
+    font-size: 12px;
+    color: #757575;
+    display: block;
+}
+
+.join_sns ul{
+    margin: 15px 0px;
+    width: 360px;
+    height: 50px;
+    text-align: center;
+}
+
+.join_sns ul a{
+    margin: 0px 10px;
+    width: 48px;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+/*join*/
+#joinup_box{
+    padding-top: 40px;
+    width: calc(100% - 30px);
+    margin: auto;
+}
+#join_top{
+    text-align: center;
+}
+#joinup{
+    width: 360px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+#joinup h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+#joinup .join_sns{
+    margin: 10px auto 20px;
+    text-align: center;
+    color: #c2c8cc;
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-bottom: 1px solid #ededed;
+}
+#joinup .join_sns ul{
+    padding: 0;
+}
+
+
+
+
+
+/*join*/
+#joinup{
+    width: 360px;
+    margin: 0 auto;
+    display: block;
+    
+}
+#joinup .logo img{
+	width: 30px;
+    margin-right: 10px;
+}
+#joinup .logo a{
+   margin-bottom: 50px;
+   display: block;
+   letter-spacing: -4px;
+}
+#joinup legend{
+    font-size:1.5em;
+    color: #666;
+    padding: 0 25px;
+    text-align: center;
+    
+}
+#joinup label{
+    text-align: left;
+    margin: 7px 0;
+    font-weight: bold;
+    display:block;
+}
+#joinup li{
+    margin-bottom: 25px;
+}
+#joinup fieldset{
+    
+    
+    border-radius: 15px;
+    margin: 0 auto;
+}
+#joinup input{
+    border: 1px solid #dbdbdb;
+    padding: 5px 10px;
+    width: 360px;
+    height: 40px;
+    margin: 8px 0;
+    border-radius: 5px;
+}
+#joinup input:hover{
+	background-color:#f9f9f9;
+}
+#joinup input.boxS{
+	width:110px;
+}
+#joinup button{
+    color: #fff;
+    border: 1px solid #09addb;
+    padding: 5px 10px;
+    width: 360px;
+    height: 50px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 17px;
+    margin: 20px 0 0;
+    background-color:#09addb;
+    line-height: 26px;
+}
+#joinup button:hover{
+	background-color:#3ecdf7;
+	transition:0.3s;
+}
+fieldset p{
+    display: inline;
+    padding-right: 10px;
+    
+}
+
+fieldset p a{
+    color: #666 !important;
+    
+}
+#joinup .agreement{
+	border: 1px solid #dbdbdb;
+    padding: 16px;
+    margin-top: 13px;
+}
+h3.gotologin{
+	text-align:center;
+	font-weight:normal;
+	margin-top:20px;
+}
+.gotologin a{
+	text-decoration: underline;
+	font-weight:bold;
+}
+#joinup .agreement p{
+	height: auto;
+    padding: 9px 0;
+    display:block;
+    text-align:left;
+    margin:0;
+    margin-right: 5px;
+    font-size: 13px;
+
+}
+#joinup .agreement input{
+	width:auto;
+	height:auto;
+	margin:0;
+	border:none;
+}
+#joinup .agreement p.allAgree{
+	display:block;
+	border-bottom:1px solid #dbdbdb;
+	text-align:left;
+	padding-bottom: 18px;
+	margin-bottom: 15px;
+	font-weight:bold;
+}
+.agreement .blue{
+	color: rgb(78, 207, 254);
+	font-weight:normal;
+}
+.join p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+    line-height: 1.3;
+    margin-bottom: 80px;
+    
+}
+.join a{
+    font-family: 'Jua', sans-serif;
+    color: #ff8a3d ;
+    font-size: 1.5em;
+    
+}
+#joinup .textS{
+	font-size:13px;
+	color:#666;
+}

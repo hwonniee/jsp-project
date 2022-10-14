@@ -1,0 +1,53 @@
+@charset "UTF-8";
+.date{
+	color:#9b9b9b;
+}
+.fRight{
+	text-align:right;
+	float:right;
+	margin-bottom:15px;
+	padding-right: 0 !important;
+}
+table.noticeTable{
+	text-align:center;
+}
+table.noticeTable > thead{
+	background:#f9f9f9;
+	line-height:45px;
+}
+table.noticeTable > tbody{
+	border-top:0px !important;
+}
+table.noticeTable tr{
+	line-height: 35px;
+}
+.marginTable{
+	margin-top:30px;	
+}
+.writeTable{
+	width:750px;
+	margin:30px auto;
+
+}
+.writeTable th{
+	border:0;
+	line-height:36px;
+	
+}
+.writeTable td{
+	border:0;
+}
+.writeTable h1{
+	font-size:40px;
+}
+
+.viewP{
+	
+	min-height:300px;
+}
+
+
+
+
+
+
